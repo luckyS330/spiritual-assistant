@@ -1,3 +1,4 @@
 myenv
 pdfs
-.env
+config.bat
+node_modules
